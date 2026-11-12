@@ -34,7 +34,7 @@ Program Studi Teknologi Informasi, UIN Antasari Banjarmasin.
 
 ## 3. Cara Membuka dan Menjalankan Aplikasi
 1. Buka **Android Studio**.
-2. Pilih menu **Open** lalu arahkan ke folder proyek: `P04_240104040145_RahmanNorFauzan/WargaHubP04`.
+2. Pilih menu **Open** lalu arahkan ke folder proyek: `P04_240104040143_Miftahurroziqin/WargaHubP04`.
 3. Tunggu proses **Gradle Sync** selesai. Pastikan dependensi terunduh dengan baik.
 4. Pilih target perangkat/emulator pada *Device Selector* (minimal API 26).
 5. Klik tombol **Run 'app'** (`Shift + F10`) atau jalankan via terminal di dalam direktori `WargaHubP04`:
